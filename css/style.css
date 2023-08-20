@@ -10,7 +10,7 @@
     --clr-heading:hsl(218, 44%, 22%);
     --clr-bg-body: hsl(220, 55%, 90%);
     --clr-bg-light:hsl(0, 0%, 100%);
-    --fs-paragraph: 18px;
+    --fs-paragraph: px;
     --fw-heading:700;
     --fw-paragraph:400;
 }
